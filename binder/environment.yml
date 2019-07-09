@@ -1,0 +1,26 @@
+name: cubeenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - boto3
+  - dask
+  - datacube
+  - descartes
+  - distributed
+  - folium
+  - geopandas
+  - hdmedians
+  - ipyleaflet
+  - matplotlib
+  - python=3.6.7
+  - rasterstats
+  - ruamel
+  - ruamel.yaml
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+prefix: /opt/conda/envs/cubeenv
+
