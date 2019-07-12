@@ -22,5 +22,6 @@ dependencies:
   - scipy
   - seaborn
   - shapely
+  - keplergl
 prefix: /opt/conda/envs/cubeenv
 
